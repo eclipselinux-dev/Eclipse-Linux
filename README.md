@@ -507,7 +507,7 @@ But every independent project starts somewhere.
 <p align="center">
   <b>Built independently. Designed for the future.</b>
   <br><br>
-  <a href="https://t.me/XimiVibe">Telegram</a>
+  <a href="https://t.me/ecsupp">Telegram</a>
   ·
   <b>Eclipse Linux Project</b>
 </p>
